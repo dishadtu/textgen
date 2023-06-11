@@ -8,3 +8,10 @@ The folder GNxx gets generated at runtime so it is something that you will need 
 once it gets generated.
 The model file gets stored in the logs folder.
 
+Run the program in this sequence
+
+1. python3 textgen.py train  (This takes around 30mins)
+
+2. python3 textgen.py generate 
+
+
